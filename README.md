@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giacomo</h1>
 <p align="center">A .NET developer from Italy</p>
 
-- 🔭 I’m currently working on [Projecta Srl](https://projectapplication.com/) using  **.NET development tools** and **DDL and DML in mssql**
+- 🔭 I’m currently working on [Méthode srl](https://www.methode.it/) using  **.NET development tools** and **DDL and DML in mssql**
 - 🌱 I’m currently learning Web Development with **React and Node.js**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
